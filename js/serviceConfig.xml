@@ -10,7 +10,7 @@
         <typename>app:Entidad</typename>
         <filter><![CDATA[<Filter xmlns:app="http://www.deegree.org/app"><PropertyIsLike matchCase="false" wildCard="*" singleChar="?" escapeChar="!"><PropertyName>{{prop_muni}}</PropertyName><Literal>*{{muni}}*</Literal></PropertyIsLike></Filter>]]></filter>
         <search>
-            <option id="muni" label="Municipio">entidadLocal/municipio</option>
+            <option id="muni" label="Township">entidadLocal/municipio</option>
         </search>
     </request>
     <results>
